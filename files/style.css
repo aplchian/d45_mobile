@@ -1,0 +1,187 @@
+body {
+	background: url("bg.png") fixed no-repeat;
+	background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	}
+.logo_cont {
+	position: relative;
+	top: 117.5px;
+	display: block;
+
+
+
+}
+
+.back-btn {
+	position: absolute;
+	top: 32.5px;
+	left: 17.5px;
+
+}
+
+.header-logo {
+	display: block;
+	margin: 19px auto 0 auto;
+
+}
+
+.logo_cont img {
+	display: block;
+	margin: 0 auto;
+
+}
+
+
+
+.logo_type {
+	font-family: AvenirNext-Bold;
+	font-size: 34px;
+	color: #FFFFFF;
+	letter-spacing: 16px;
+	line-height: 46.5px;
+	margin-top: 10.5px;
+	text-align: center;
+
+}
+
+p {
+	font-family: AvenirNext-Regular;
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: .5px;
+	line-height: 19px;
+	text-align: center;
+}
+
+.signup-btn {
+
+	display: block;
+	margin: 0 auto;
+	position: absolute;
+	bottom: 116px;
+	left: 50%;
+	transform: translate(-50%,0);
+	width: 76%;
+	height: 54.5px;
+	border: 1px solid #FFBC40;
+	border-radius: 8px;
+	font-family: AvenirNext-DemiBold;
+	font-size: 11px;
+	color: #FFFFFF;
+	letter-spacing: 5.26px;
+	line-height: 15px;
+	background: none;
+}
+
+.already {
+	bottom: 50px;
+	position: absolute;
+	text-align: center;
+	display: block;
+	left: 50%;
+	transform: translate(-50%,0);
+	font-family: AvenirNext-Regular;
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: .5px;
+	line-height: 19px;
+	font-weight: 200;
+
+}
+
+.txt-link {
+	color: #FFBC40;
+
+}
+
+.fb-btn {
+	position: relative;
+	display: block;
+	margin: 93px auto 0 auto;
+	background-color: red;
+	background: #393CA8;
+	border: 1px solid #393CA8;
+	border-radius: 4px;
+	font-family: AvenirNext-DemiBold;
+	font-size: 10px;
+	color: #FFFFFF;
+	letter-spacing: 2.5px;
+	width: 76%;
+	height: 53px;
+
+
+}
+.fb-btn img {
+	position: absolute;
+	top: 0
+	left: 0;
+	height: 100%;
+
+}
+.fb-txt {
+
+	display: block;
+	margin: 0;
+	padding-left: 57.25px;
+	line-height: 54.5px;
+	text-align: center;
+	font-weight: 200;
+}
+
+.input-cont {
+	margin-top: 48.5px;
+	margin-bottom: 88.5px;
+}
+
+.input-cont p {
+font-family: AvenirNext-DemiBold;
+font-size: 11px;
+color: #595959;
+letter-spacing: 2.5px;
+line-height: 15px;
+text-align: center;
+
+}
+
+input {
+	display: block;
+	margin: 0 auto 38px auto;
+
+	background: none;font-family: AvenirNext-Regular;
+	font-size: 16px;
+	color: #FFFFFF;
+	letter-spacing: .5px;
+	line-height: 22px;
+	width: 76%;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+
+	border-bottom: 1px solid #595959;
+
+
+}
+
+.login-btn {
+	display: block;
+	margin: 0 auto 45px auto;
+	background: #B2832D;
+	border: 1px solid #B2832D;
+	border-radius: 4px;
+	font-family: AvenirNext-DemiBold;
+	font-size: 11px;
+	color: #FFFFFF;
+	letter-spacing: 5.26px;
+	line-height: 15px;
+	width: 76%;
+	height: 54.5px;
+
+}
+
+
+
+
+
+
